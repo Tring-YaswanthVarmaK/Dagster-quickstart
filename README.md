@@ -50,6 +50,11 @@ Start the Dagster UI web server:
 dg dev
 ```
 
+Start the Dagster UI web server with env:
+```bash
+uv run dg dev
+```
+
 Open http://localhost:3000 in your browser to see the project.
 
 ## Learn more
